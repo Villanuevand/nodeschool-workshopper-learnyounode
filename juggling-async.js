@@ -4,7 +4,6 @@ printUrl();
 
 function printUrl(){
     var d = [],
-        c = 0,
         url = process.argv;
 
     for (var i = 2; i < url.length; i++) {
