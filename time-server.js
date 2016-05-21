@@ -10,7 +10,6 @@ var server  = net.createServer(function (socket) {
         hh = new Date().getHours(),
         min = new Date().getMinutes(),
         data = yy + '-' + mm + '-' + dd + ' ' + hh + ':' + min + '\n';
-    console.log(new Date());
     socket.end(data);
 });
 server.listen(process.argv[2]);
