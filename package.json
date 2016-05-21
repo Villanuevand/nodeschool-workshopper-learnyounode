@@ -1,0 +1,22 @@
+{
+  "name": "nodeschool-workshopper-learnyounode",
+  "version": "1.0.0",
+  "description": "Workshop Nodeschool",
+  "dependencies": {
+    "through2-map": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Villanuevand/nodeschool-workshopper-learnyounode.git"
+  },
+  "author": " <Andres Villanueva>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Villanuevand/nodeschool-workshopper-learnyounode/issues"
+  },
+  "homepage": "https://github.com/Villanuevand/nodeschool-workshopper-learnyounode#readme"
+}
