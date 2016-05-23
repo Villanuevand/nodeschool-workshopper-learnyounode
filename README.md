@@ -10,8 +10,8 @@ Este interesante workshopper, el segundo recomendado por [Nodeschools.io](http:/
 5. MAKE IT MODULAR.....:white_check_mark:
 6. HTTP CLIENT...............:white_check_mark:
 7. HTTP COLLECT...........:white_check_mark:
-8. JUGGLING ASYNC......:white_large_square:
-9. TIME SERVER..............:white_large_square:
-10. HTTP FILE SERVER.....:white_large_square:
-11. HTTP UPPERCASERER......:white_large_square:
+8. JUGGLING ASYNC......:white_check_mark:
+9. TIME SERVER..............:white_check_mark:
+10. HTTP FILE SERVER.....:white_check_mark:
+11. HTTP UPPERCASERER......:white_check_mark:
 12. HTTP JSON API SERVER....:white_large_square:
